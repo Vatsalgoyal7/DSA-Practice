@@ -1,0 +1,20 @@
+name: Sync LeetCode Solutions
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Daily at midnight
+  workflow_dispatch:       # Manual trigger anytime
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sync LeetCode Submissions
+        uses: joshblack07/Sync-LeetCode-to-GitHub@v1.0.0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          destination: ./LeetCode-Auto
