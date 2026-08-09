@@ -87,6 +87,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ GitHub contribution graph gets a green square 🟩
 ## Array
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -115,4 +117,24 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3310-remove-methods-from-project) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
