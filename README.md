@@ -89,6 +89,7 @@ GitHub contribution graph gets a green square 🟩
 | [0002-add-two-numbers](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -131,11 +132,13 @@ GitHub contribution graph gets a green square 🟩
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -145,11 +148,13 @@ GitHub contribution graph gets a green square 🟩
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -168,4 +173,12 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
