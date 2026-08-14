@@ -88,6 +88,7 @@ GitHub contribution graph gets a green square 🟩
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -128,10 +130,12 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -140,10 +144,12 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Sliding Window
 |  |
 | ------- |
