@@ -99,6 +99,7 @@ GitHub contribution graph gets a green square 🟩
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -121,6 +122,7 @@ GitHub contribution graph gets a green square 🟩
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -224,4 +226,8 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
