@@ -110,6 +110,7 @@ GitHub contribution graph gets a green square 🟩
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -119,6 +120,7 @@ GitHub contribution graph gets a green square 🟩
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
@@ -202,6 +205,7 @@ GitHub contribution graph gets a green square 🟩
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -241,4 +245,8 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
