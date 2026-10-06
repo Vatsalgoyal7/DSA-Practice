@@ -83,6 +83,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
@@ -255,4 +256,20 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
