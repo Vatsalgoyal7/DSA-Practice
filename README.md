@@ -83,6 +83,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0147-insertion-sort-list) |
 ## Math
@@ -249,6 +250,7 @@ GitHub contribution graph gets a green square 🟩
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
