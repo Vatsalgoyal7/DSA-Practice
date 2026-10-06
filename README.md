@@ -108,6 +108,7 @@ GitHub contribution graph gets a green square 🟩
 | [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1049-last-stone-weight-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -156,6 +157,7 @@ GitHub contribution graph gets a green square 🟩
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
@@ -283,11 +285,13 @@ GitHub contribution graph gets a green square 🟩
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1049-last-stone-weight-ii) |
 ## Backtracking
 |  |
 | ------- |
