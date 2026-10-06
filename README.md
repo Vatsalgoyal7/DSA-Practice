@@ -105,6 +105,7 @@ GitHub contribution graph gets a green square 🟩
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -154,6 +155,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1510-stone-game-iv) |
@@ -280,8 +282,14 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
