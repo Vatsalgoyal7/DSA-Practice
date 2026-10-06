@@ -104,6 +104,7 @@ GitHub contribution graph gets a green square 🟩
 | ------- |
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0704-binary-search](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -229,6 +230,7 @@ GitHub contribution graph gets a green square 🟩
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
