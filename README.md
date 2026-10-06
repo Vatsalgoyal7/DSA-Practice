@@ -83,6 +83,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0147-insertion-sort-list](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +128,7 @@ GitHub contribution graph gets a green square 🟩
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
+| [0147-insertion-sort-list](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0147-insertion-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3731-find-missing-elements) |
