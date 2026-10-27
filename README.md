@@ -198,6 +198,7 @@ GitHub contribution graph gets a green square 🟩
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -257,6 +258,7 @@ GitHub contribution graph gets a green square 🟩
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
