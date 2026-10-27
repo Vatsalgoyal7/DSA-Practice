@@ -127,6 +127,7 @@ GitHub contribution graph gets a green square 🟩
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -193,11 +194,13 @@ GitHub contribution graph gets a green square 🟩
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
