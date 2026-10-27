@@ -103,6 +103,7 @@ GitHub contribution graph gets a green square 🟩
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
@@ -237,6 +238,7 @@ GitHub contribution graph gets a green square 🟩
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
