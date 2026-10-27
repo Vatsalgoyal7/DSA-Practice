@@ -106,6 +106,7 @@ GitHub contribution graph gets a green square 🟩
 | [0033-search-in-rotated-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0704-binary-search) |
@@ -173,6 +174,7 @@ GitHub contribution graph gets a green square 🟩
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Vatsalgoyal7/DSA-Practice/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
